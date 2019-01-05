@@ -14,6 +14,9 @@ Problem Statement   :
 ● How much do the factors like location, property type, amenities and number of bedrooms etc influence the price of Airbnb room.
 ● We have modelled this as regression problem.
 
+Data Source    :
+Link :  http://insideairbnb.com/get-the-data.html
+
 Target Variable   : Price of room (new listing) added to Airbnb. 
 
 Model Implemented :
